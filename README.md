@@ -68,7 +68,7 @@ Healthcare: Secure chat applications can facilitate communication between doctor
 
 In essence, real-time chat applications are fundamental for any scenario requiring immediate, dynamic communication, transforming how individuals and organizations interact online.
 
-*OUTPUT* :
+*OUTPUT* : <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3bfa8905-3427-4df1-9af4-3a49501ea2cd" />
 
 
 
